@@ -7,7 +7,7 @@ function generateExcuse() {
     "right on time",
     "when I finished",
     "during my lunch",
-    "while I was praying"
+    "while I was sleeping"
   ];
 
   return `${who[Math.floor(Math.random() * who.length)]} ${
